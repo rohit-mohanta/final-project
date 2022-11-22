@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task 1/Sub-task 1.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task 1/Sub-task 1.md",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task 1/Sub-task 1.md",
+                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task 1/Sub-task 1.md"
+                "file": "Testing.md"
               }
             }
           }
@@ -163,9 +163,9 @@
   },
   "active": "996d137b22ee851b",
   "lastOpenFiles": [
+    "Task 1/Sub-task 1.md",
     "Double Testing in 1 minute.md",
     "20221120090525.png.md",
-    "Task 1/Sub-task 1.md",
     "Attachments/aws-cli-version.png",
     "Testing.md",
     "Attachments/20221120090525.png",
