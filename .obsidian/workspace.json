@@ -11,12 +11,8 @@
             "id": "df49f0418ed19d74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task 1/Sub-task 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task 1/Sub-task 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task 1/Sub-task 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Task 1/Sub-task 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,9 +131,9 @@
   },
   "active": "df49f0418ed19d74",
   "lastOpenFiles": [
-    "Testing.md",
-    "Task 1/Sub-task 1.md",
     "Double Testing in 1 minute.md",
+    "Task 1/Sub-task 1.md",
+    "Testing.md",
     "20221120090525.png.md",
     "Attachments/aws-cli-version.png",
     "Attachments/20221120090525.png",
